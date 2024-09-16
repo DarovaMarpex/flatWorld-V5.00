@@ -1,0 +1,3410 @@
+fileFormatVersion: 2
+guid: dd794c57b51ed494d8748bc02847bd53
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: StandIn_Swordsman_v01_0
+  - first:
+      213: 21300002
+    second: StandIn_Swordsman_v01_1
+  - first:
+      213: 21300004
+    second: StandIn_Swordsman_v01_2
+  - first:
+      213: 21300006
+    second: StandIn_Swordsman_v01_3
+  - first:
+      213: 21300008
+    second: StandIn_Swordsman_v01_4
+  - first:
+      213: 21300010
+    second: StandIn_Swordsman_v01_5
+  - first:
+      213: 21300012
+    second: StandIn_Swordsman_v01_6
+  - first:
+      213: 21300014
+    second: StandIn_Swordsman_v01_7
+  - first:
+      213: 21300016
+    second: StandIn_Swordsman_v01_8
+  - first:
+      213: 21300018
+    second: StandIn_Swordsman_v01_9
+  - first:
+      213: 21300020
+    second: StandIn_Swordsman_v01_10
+  - first:
+      213: 21300022
+    second: StandIn_Swordsman_v01_11
+  - first:
+      213: 21300024
+    second: StandIn_Swordsman_v01_12
+  - first:
+      213: 21300026
+    second: StandIn_Swordsman_v01_13
+  - first:
+      213: 21300028
+    second: StandIn_Swordsman_v01_14
+  - first:
+      213: 21300030
+    second: StandIn_Swordsman_v01_15
+  - first:
+      213: 21300032
+    second: StandIn_Swordsman_v01_16
+  - first:
+      213: 21300034
+    second: StandIn_Swordsman_v01_17
+  - first:
+      213: 21300036
+    second: StandIn_Swordsman_v01_18
+  - first:
+      213: 21300038
+    second: StandIn_Swordsman_v01_19
+  - first:
+      213: 21300040
+    second: StandIn_Swordsman_v01_20
+  - first:
+      213: 21300042
+    second: StandIn_Swordsman_v01_21
+  - first:
+      213: 21300044
+    second: StandIn_Swordsman_v01_22
+  - first:
+      213: 21300046
+    second: StandIn_Swordsman_v01_23
+  - first:
+      213: 21300048
+    second: StandIn_Swordsman_v01_24
+  - first:
+      213: 21300050
+    second: StandIn_Swordsman_v01_25
+  - first:
+      213: 21300052
+    second: StandIn_Swordsman_v01_26
+  - first:
+      213: 21300054
+    second: StandIn_Swordsman_v01_27
+  - first:
+      213: 21300056
+    second: StandIn_Swordsman_v01_28
+  - first:
+      213: 21300058
+    second: StandIn_Swordsman_v01_29
+  - first:
+      213: 21300060
+    second: StandIn_Swordsman_v01_30
+  - first:
+      213: 21300062
+    second: StandIn_Swordsman_v01_31
+  - first:
+      213: 21300064
+    second: StandIn_Swordsman_v01_32
+  - first:
+      213: 21300066
+    second: StandIn_Swordsman_v01_33
+  - first:
+      213: 21300068
+    second: StandIn_Swordsman_v01_34
+  - first:
+      213: 21300070
+    second: StandIn_Swordsman_v01_35
+  - first:
+      213: 21300072
+    second: StandIn_Swordsman_v01_36
+  - first:
+      213: 21300074
+    second: StandIn_Swordsman_v01_37
+  - first:
+      213: 21300076
+    second: StandIn_Swordsman_v01_38
+  - first:
+      213: 21300078
+    second: StandIn_Swordsman_v01_39
+  - first:
+      213: 21300080
+    second: StandIn_Swordsman_v01_40
+  - first:
+      213: 21300082
+    second: StandIn_Swordsman_v01_41
+  - first:
+      213: 21300084
+    second: StandIn_Swordsman_v01_42
+  - first:
+      213: 21300086
+    second: StandIn_Swordsman_v01_43
+  - first:
+      213: 21300088
+    second: StandIn_Swordsman_v01_44
+  - first:
+      213: 21300090
+    second: StandIn_Swordsman_v01_45
+  - first:
+      213: 21300092
+    second: StandIn_Swordsman_v01_46
+  - first:
+      213: 21300094
+    second: StandIn_Swordsman_v01_47
+  - first:
+      213: 21300096
+    second: StandIn_Swordsman_v01_48
+  - first:
+      213: 21300098
+    second: StandIn_Swordsman_v01_49
+  - first:
+      213: 21300100
+    second: StandIn_Swordsman_v01_50
+  - first:
+      213: 21300102
+    second: StandIn_Swordsman_v01_51
+  - first:
+      213: 21300104
+    second: StandIn_Swordsman_v01_52
+  - first:
+      213: 21300106
+    second: StandIn_Swordsman_v01_53
+  - first:
+      213: 21300108
+    second: StandIn_Swordsman_v01_54
+  - first:
+      213: 21300110
+    second: StandIn_Swordsman_v01_55
+  - first:
+      213: 21300112
+    second: StandIn_Swordsman_v01_56
+  - first:
+      213: 21300114
+    second: StandIn_Swordsman_v01_57
+  - first:
+      213: 21300116
+    second: StandIn_Swordsman_v01_58
+  - first:
+      213: 21300118
+    second: StandIn_Swordsman_v01_59
+  - first:
+      213: 21300120
+    second: StandIn_Swordsman_v01_60
+  - first:
+      213: 21300122
+    second: StandIn_Swordsman_v01_61
+  - first:
+      213: 21300124
+    second: StandIn_Swordsman_v01_62
+  - first:
+      213: 21300126
+    second: StandIn_Swordsman_v01_63
+  - first:
+      213: 21300128
+    second: StandIn_Swordsman_v01_64
+  - first:
+      213: 21300130
+    second: StandIn_Swordsman_v01_65
+  - first:
+      213: 21300132
+    second: StandIn_Swordsman_v01_66
+  - first:
+      213: 21300134
+    second: StandIn_Swordsman_v01_67
+  - first:
+      213: 21300136
+    second: StandIn_Swordsman_v01_68
+  - first:
+      213: 21300138
+    second: StandIn_Swordsman_v01_69
+  - first:
+      213: 21300140
+    second: StandIn_Swordsman_v01_70
+  - first:
+      213: 21300142
+    second: StandIn_Swordsman_v01_71
+  - first:
+      213: 21300144
+    second: StandIn_Swordsman_v01_72
+  - first:
+      213: 21300146
+    second: StandIn_Swordsman_v01_73
+  - first:
+      213: 21300148
+    second: StandIn_Swordsman_v01_74
+  - first:
+      213: 21300150
+    second: StandIn_Swordsman_v01_75
+  - first:
+      213: 21300152
+    second: StandIn_Swordsman_v01_76
+  - first:
+      213: 21300154
+    second: StandIn_Swordsman_v01_77
+  - first:
+      213: 21300156
+    second: StandIn_Swordsman_v01_78
+  - first:
+      213: 21300158
+    second: StandIn_Swordsman_v01_79
+  - first:
+      213: 21300160
+    second: StandIn_Swordsman_v01_80
+  - first:
+      213: 21300162
+    second: StandIn_Swordsman_v01_81
+  - first:
+      213: 21300164
+    second: StandIn_Swordsman_v01_82
+  - first:
+      213: 21300166
+    second: StandIn_Swordsman_v01_83
+  - first:
+      213: 21300168
+    second: StandIn_Swordsman_v01_84
+  - first:
+      213: 21300170
+    second: StandIn_Swordsman_v01_85
+  - first:
+      213: 21300172
+    second: StandIn_Swordsman_v01_86
+  - first:
+      213: 21300174
+    second: StandIn_Swordsman_v01_87
+  - first:
+      213: 21300176
+    second: StandIn_Swordsman_v01_88
+  - first:
+      213: 21300178
+    second: StandIn_Swordsman_v01_89
+  - first:
+      213: 21300180
+    second: StandIn_Swordsman_v01_90
+  - first:
+      213: 21300182
+    second: StandIn_Swordsman_v01_91
+  - first:
+      213: 21300184
+    second: StandIn_Swordsman_v01_92
+  - first:
+      213: 21300186
+    second: StandIn_Swordsman_v01_93
+  - first:
+      213: 21300188
+    second: StandIn_Swordsman_v01_94
+  - first:
+      213: 21300190
+    second: StandIn_Swordsman_v01_95
+  - first:
+      213: 21300192
+    second: StandIn_Swordsman_v01_96
+  - first:
+      213: 21300194
+    second: StandIn_Swordsman_v01_97
+  - first:
+      213: 21300196
+    second: StandIn_Swordsman_v01_98
+  - first:
+      213: 21300198
+    second: StandIn_Swordsman_v01_99
+  - first:
+      213: 21300200
+    second: StandIn_Swordsman_v01_100
+  - first:
+      213: 21300202
+    second: StandIn_Swordsman_v01_101
+  - first:
+      213: 21300204
+    second: StandIn_Swordsman_v01_102
+  - first:
+      213: 21300206
+    second: StandIn_Swordsman_v01_103
+  - first:
+      213: 21300208
+    second: StandIn_Swordsman_v01_104
+  - first:
+      213: 21300210
+    second: StandIn_Swordsman_v01_105
+  - first:
+      213: 21300212
+    second: StandIn_Swordsman_v01_106
+  - first:
+      213: 21300214
+    second: StandIn_Swordsman_v01_107
+  - first:
+      213: 21300216
+    second: StandIn_Swordsman_v01_108
+  - first:
+      213: 21300218
+    second: StandIn_Swordsman_v01_109
+  - first:
+      213: 21300220
+    second: StandIn_Swordsman_v01_110
+  - first:
+      213: 21300222
+    second: StandIn_Swordsman_v01_111
+  - first:
+      213: 21300224
+    second: StandIn_Swordsman_v01_112
+  - first:
+      213: 21300226
+    second: StandIn_Swordsman_v01_113
+  - first:
+      213: 21300228
+    second: StandIn_Swordsman_v01_114
+  - first:
+      213: 21300230
+    second: StandIn_Swordsman_v01_115
+  - first:
+      213: 21300232
+    second: StandIn_Swordsman_v01_116
+  - first:
+      213: 21300234
+    second: StandIn_Swordsman_v01_117
+  - first:
+      213: 21300236
+    second: StandIn_Swordsman_v01_118
+  - first:
+      213: 21300238
+    second: StandIn_Swordsman_v01_119
+  - first:
+      213: 21300240
+    second: StandIn_Swordsman_v01_120
+  - first:
+      213: 21300242
+    second: StandIn_Swordsman_v01_121
+  - first:
+      213: 21300244
+    second: StandIn_Swordsman_v01_122
+  - first:
+      213: 21300246
+    second: StandIn_Swordsman_v01_123
+  - first:
+      213: 21300248
+    second: StandIn_Swordsman_v01_124
+  - first:
+      213: 21300250
+    second: StandIn_Swordsman_v01_125
+  - first:
+      213: 21300252
+    second: StandIn_Swordsman_v01_126
+  - first:
+      213: 21300254
+    second: StandIn_Swordsman_v01_127
+  - first:
+      213: 21300256
+    second: StandIn_Swordsman_v01_128
+  - first:
+      213: 21300258
+    second: StandIn_Swordsman_v01_129
+  - first:
+      213: 21300260
+    second: StandIn_Swordsman_v01_130
+  - first:
+      213: 21300262
+    second: StandIn_Swordsman_v01_131
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1436
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe0e7af34a26ab48a9515dae13995bc
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1434
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fee8835ec9d70e4bb20e09010048a45
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_2
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1432
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b327bbe967b046d4cb19ca0e3464b9ad
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_3
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1431
+        width: 39
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee3baeaac71f4c4a982b60b131b3cb7
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_4
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1413
+        width: 25
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224e8173c96bed14a9d61ce5eed83a18
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_5
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1428
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba7c49220b1351498ccb103135af4c8
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_6
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1435
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ab4e241a163594ba33cc98d5561fcd
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_7
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1435
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831e139e2d6b9dd499ea25553a04d53a
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_8
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1435
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f75659029c76b41b39f06b9f0216b7
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_9
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 1435
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cfa3caa8eb6a144b5704c38b19764f
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_10
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1436
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b4c13ea7206224d9f2e7a3f77d0e99
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_11
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1312
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4453ba2c65d81af4895baad3eca0010f
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_12
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1312
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8ec77963794d140b1e395c6514b2e0
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_13
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1312
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75409361e3638124d846e9b596d09fa9
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_14
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1310
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b867c6d6e6e2d74fb6f19a2e3466263
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_15
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1310
+        width: 82
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ab515bc4e8b414e84fb39ea1d8def8
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_16
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1310
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a717ee4e504cc84f8c6f44bcf225730
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_17
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1310
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6348c3142ffc03146b8991c74662a387
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_18
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1310
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be91cc53f815ef40b4aa1ff5a452303
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_19
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1310
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af0c386c1198284baece6aa93002366
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_20
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1311
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7367758f02a3b524caeb7c53fc585ef8
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_21
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1312
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fd34549173b4441ada808667ab9f9e
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_22
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1187
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148d8beb9c53f7d44ba30874a1ffc63b
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_23
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1187
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae0d3805dba38347a9f98d58f345048
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_24
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1187
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcedbbfcde317440b977d9ba7d6ea2c
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_25
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1182
+        width: 49
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2dc84857217c354ca9d3f9413d25709
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_26
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1178
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31925731d40687f489aa54d67e5dc21b
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_27
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1178
+        width: 67
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb16b4278088484b942b2ad46b6f89b
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_28
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1178
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911865c39fe31d441a73433042a54f82
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_29
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1178
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe7f8ecd104e53449187ede86ba76d9
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_30
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1179
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd75bccca62d114482daa3f737727df
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_31
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1184
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcceb4b078c6b04ebafd8b6b17c4453
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_32
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 1187
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f990f3765dba27e4cae5525a1b7768e7
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_33
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1053
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb2584b88ad66b4ab18fbd37034b7b7
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_34
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1052
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ac084e765756b43b8f5794d0876103
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_35
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1051
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433d62fcc21cfef448e041e633aa1a30
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_36
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1053
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624c514e19ac87849aa5fbb077ba01c7
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_37
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1049
+        width: 25
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcd045f1b6235145a1d3307aa01cfb5
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_38
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1049
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8102f8287e4d244bf99faacc0f9f83
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_39
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1049
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb456368ceb8b92418ad3b3dccdfe302
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_40
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1049
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3518444bc247ed488c1a1e04b359a47
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_41
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1050
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656e201ae7614924ea92dc1aecc56e6b
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_42
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1053
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6927bd5c69275145968a1cfb2591cd3
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_43
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1053
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773ac92a80ca0bb4080c9ddfe4301eb1
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_44
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 924
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305ab3a7e823b004b81de82a19888bcb
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_45
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 924
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967dea9cd6fe37d4ba21e20bf00c62ca
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_46
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 924
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b219289152094a14fbcf22420cab32fe
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_47
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 924
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355f223ef02433f4db9ab16e1c1d7dd8
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_48
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 924
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa900ba7a7384a4382305274c4ed95b
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_49
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 924
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04e3fb294d313d488c33fb3da1b3c5b
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_50
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 924
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e07f6810077cd498d730582cfc918f
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_51
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 924
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a20731e7351ed44a78e95eb0f7ae6b
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_52
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 924
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e27eca0c634f5e47a09889081646d35
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_53
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 924
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd45dd51fcf92ba4a9347d491c390f06
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_54
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 924
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0573f3bffab1354cbdb5a6198bbf836
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_55
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 800
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2ad09a135a61a46b4e5ef321e730a8
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_56
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 800
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d0576c3da9c554daf9742acda51858
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_57
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 800
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa2dbb50aaf1e142aec6e60f2ebb271
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_58
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 800
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb6c0c1737d95a46807e7795eeed4c5
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_59
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 800
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be51fb9e3709f8c459e8b0ffb993eb7e
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_60
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 800
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93add43d4bd8e5d47b4ef2cf63399e08
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_61
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 800
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d106fcc9e937204e826ef13803ef8de
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_62
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 800
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec961e1dbcc74014db6765e174d66bb2
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_63
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 800
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3f839d8a32330409ac2e82a9a87b96
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_64
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 800
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d47909273218945aa8206bb00f4fe3
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_65
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 800
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a0838295238874f8725dae33b74d2e
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_66
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 675
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e0445fdce36e94d94216c888992bd8
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_67
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 675
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70147aedbdbf06c49936f1303bc2e0e6
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_68
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 675
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f658964d616d7e40a9afb1db489909d
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_69
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 675
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a499bca7742eb4fbd04fb7a74d652e
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_70
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 675
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c4b9ad97dd45748b3fe5b821856589
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_71
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 675
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc592e4bc46213428c748f665f000da
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_72
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 675
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bb4cdccba116c4e85ab82ff7442a91
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_73
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 675
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7583313b9f206429c4c3ea6c36d83a
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_74
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 675
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a51bb95c41d6a4f9a24a5f97683a6c
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_75
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 675
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8b3f1777d94314e9e7fad6354da729
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_76
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 675
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2545b77601c45164f9db8fc70d682921
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_77
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 541
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80addee3684cc0946bb66730aa3552d2
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_78
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 541
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272a0ad05d23c9a49911de1610878307
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_79
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 541
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5efc71bade0e344996154c7f30d9ee
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_80
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 541
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69d0e8c6fac9704faab2d00a4b3d674
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_81
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 541
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d62b04361277a469062f13962f373e
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_82
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 541
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d59f8326bbca3840a4da952c85ae253
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_83
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 541
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdc5e94d2dd40047abf3f867d411f7c
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_84
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 541
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec9beecb1f620649a89ea6d8ea6eda4
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_85
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 541
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5043e7a8898a85b4395645b2ccb9ebe7
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_86
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 541
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399436c9ea02aee4a9c54f7d4b2d8d6e
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_87
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 541
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b98737528bc55e44ac8cfeabe18f5d4
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_88
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 411
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19f20fce189c1643a32112e459830e9
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_89
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 410
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a782ccaaf3434ca46b7a55cc272ae2d1
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_90
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 410
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ac941a8d130b44885433f81d67c811
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_91
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 413
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6dbea7eaed566f47a81fb11b0af5200
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_92
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 417
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a37ba5425e839489920abb02c69cb9
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_93
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 414
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b593a299926e99f458516b291f042656
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_94
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 411
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536f89c6080abb2469d4aa553b2db688
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_95
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 409
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3c7497188bc124fbfa0438bdc33fb3
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_96
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 409
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a30935b4df1ed48a09fe86f05eb457
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_97
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 413
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b546cc738a8a61d4caa2d5d346ac96df
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_98
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 418
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ac0523293405e449a36d9750d62e2c
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_99
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 288
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe48dc78b87bef44a117443e0d0f719
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_100
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 290
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7ad01359be0104ebab559b014e8c7e
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_101
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 291
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bb28c5c3ec4874083eb0170e0eebcd
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_102
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 291
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1ddcbac990b8043ab29e6eaa825b7b
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_103
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 292
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4148f199e3f7aa48928cd7ed14f99e0
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_104
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 292
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9772033e3d3d448abb86bd9b1cce3b
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_105
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 292
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1abe8d3c726e7d4cab8dc886590b95f
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_106
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 290
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5e0c2eb2b8b2c46b89da61a5b175aa
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_107
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 288
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b112f95caaad6469be6481ec82ecaa
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_108
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 288
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f92fcba204c444b968cf86f52e65bb
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_109
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 288
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc33f182a6bdd24db610bbb0a0ba7af
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_110
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 166
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b49cce6a8f9ef47a90ea7c65aeed32
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_111
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 163
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adaf0f5ec2c71e94db12d7bd48eb0c8b
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_112
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 160
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1e47aa7b6f7094585800dc38b73367
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_113
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 160
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a023f59c1a25834d815bec4ed9446aa
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_114
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 160
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02482ab368ba25c41a7a8c24206977e0
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_115
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 160
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0fcb734dff9d340a076d0c4004d3bb
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_116
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 160
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7651d89a9499e634ea8d2d1ba9a70d41
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_117
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 163
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e17822a08243504ba19481f12a251cd
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_118
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 165
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d172039e47bf86b44b7b9c5aba7da226
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_119
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 165
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa1cdef8b26d5a4d877253a1374deb0
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_120
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 165
+        width: 23
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1faae1a531f2eca46be8868345e3b811
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_121
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 29
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658c45332948d1a459405bc5f8341b4e
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_122
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 27
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636fe00a8f5d91e499527e744a01ae90
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_123
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 26
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b048a4238b35e04b8c64475e0801ddb
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_124
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 30
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccd4e99e5b263a408e46f87eea8f364
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_125
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 35
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6667b250cf637747ae7dca7e38feb85
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_126
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 31
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a2b9d7a998d3746bcd632ec6143595
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_127
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 28
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f692e7d4bfbfb440bf36353d67c8b90
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_128
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 27
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b232c82335b8040a004c0dcbb9d815
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_129
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 28
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec4a5a6bdb8548459924e6768c4675f
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_130
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 31
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b4af367842f2d4489a009117dbca55
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StandIn_Swordsman_v01_131
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 35
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6791a803027f7f418ebb55207491feb
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a80c784a9ebfeb14e96b13c97a4dae20
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      StandIn_Swordsman_v01_103: 21300206
+      StandIn_Swordsman_v01_13: 21300026
+      StandIn_Swordsman_v01_88: 21300176
+      StandIn_Swordsman_v01_109: 21300218
+      StandIn_Swordsman_v01_25: 21300050
+      StandIn_Swordsman_v01_31: 21300062
+      StandIn_Swordsman_v01_45: 21300090
+      StandIn_Swordsman_v01_89: 21300178
+      StandIn_Swordsman_v01_95: 21300190
+      StandIn_Swordsman_v01_61: 21300122
+      StandIn_Swordsman_v01_114: 21300228
+      StandIn_Swordsman_v01_11: 21300022
+      StandIn_Swordsman_v01_108: 21300216
+      StandIn_Swordsman_v01_74: 21300148
+      StandIn_Swordsman_v01_115: 21300230
+      StandIn_Swordsman_v01_78: 21300156
+      StandIn_Swordsman_v01_44: 21300088
+      StandIn_Swordsman_v01_120: 21300240
+      StandIn_Swordsman_v01_104: 21300208
+      StandIn_Swordsman_v01_43: 21300086
+      StandIn_Swordsman_v01_81: 21300162
+      StandIn_Swordsman_v01_28: 21300056
+      StandIn_Swordsman_v01_75: 21300150
+      StandIn_Swordsman_v01_94: 21300188
+      StandIn_Swordsman_v01_77: 21300154
+      StandIn_Swordsman_v01_117: 21300234
+      StandIn_Swordsman_v01_38: 21300076
+      StandIn_Swordsman_v01_46: 21300092
+      StandIn_Swordsman_v01_62: 21300124
+      StandIn_Swordsman_v01_37: 21300074
+      StandIn_Swordsman_v01_50: 21300100
+      StandIn_Swordsman_v01_58: 21300116
+      StandIn_Swordsman_v01_92: 21300184
+      StandIn_Swordsman_v01_6: 21300012
+      StandIn_Swordsman_v01_29: 21300058
+      StandIn_Swordsman_v01_80: 21300160
+      StandIn_Swordsman_v01_10: 21300020
+      StandIn_Swordsman_v01_59: 21300118
+      StandIn_Swordsman_v01_63: 21300126
+      StandIn_Swordsman_v01_116: 21300232
+      StandIn_Swordsman_v01_90: 21300180
+      StandIn_Swordsman_v01_53: 21300106
+      StandIn_Swordsman_v01_21: 21300042
+      StandIn_Swordsman_v01_41: 21300082
+      StandIn_Swordsman_v01_69: 21300138
+      StandIn_Swordsman_v01_23: 21300046
+      StandIn_Swordsman_v01_2: 21300004
+      StandIn_Swordsman_v01_30: 21300060
+      StandIn_Swordsman_v01_42: 21300084
+      StandIn_Swordsman_v01_99: 21300198
+      StandIn_Swordsman_v01_83: 21300166
+      StandIn_Swordsman_v01_121: 21300242
+      StandIn_Swordsman_v01_14: 21300028
+      StandIn_Swordsman_v01_102: 21300204
+      StandIn_Swordsman_v01_129: 21300258
+      StandIn_Swordsman_v01_51: 21300102
+      StandIn_Swordsman_v01_5: 21300010
+      StandIn_Swordsman_v01_65: 21300130
+      StandIn_Swordsman_v01_66: 21300132
+      StandIn_Swordsman_v01_3: 21300006
+      StandIn_Swordsman_v01_17: 21300034
+      StandIn_Swordsman_v01_93: 21300186
+      StandIn_Swordsman_v01_130: 21300260
+      StandIn_Swordsman_v01_12: 21300024
+      StandIn_Swordsman_v01_52: 21300104
+      StandIn_Swordsman_v01_70: 21300140
+      StandIn_Swordsman_v01_40: 21300080
+      StandIn_Swordsman_v01_4: 21300008
+      StandIn_Swordsman_v01_96: 21300192
+      StandIn_Swordsman_v01_20: 21300040
+      StandIn_Swordsman_v01_55: 21300110
+      StandIn_Swordsman_v01_123: 21300246
+      StandIn_Swordsman_v01_126: 21300252
+      StandIn_Swordsman_v01_100: 21300200
+      StandIn_Swordsman_v01_64: 21300128
+      StandIn_Swordsman_v01_34: 21300068
+      StandIn_Swordsman_v01_118: 21300236
+      StandIn_Swordsman_v01_87: 21300174
+      StandIn_Swordsman_v01_19: 21300038
+      StandIn_Swordsman_v01_111: 21300222
+      StandIn_Swordsman_v01_15: 21300030
+      StandIn_Swordsman_v01_124: 21300248
+      StandIn_Swordsman_v01_84: 21300168
+      StandIn_Swordsman_v01_56: 21300112
+      StandIn_Swordsman_v01_97: 21300194
+      StandIn_Swordsman_v01_122: 21300244
+      StandIn_Swordsman_v01_105: 21300210
+      StandIn_Swordsman_v01_35: 21300070
+      StandIn_Swordsman_v01_39: 21300078
+      StandIn_Swordsman_v01_82: 21300164
+      StandIn_Swordsman_v01_98: 21300196
+      StandIn_Swordsman_v01_106: 21300212
+      StandIn_Swordsman_v01_128: 21300256
+      StandIn_Swordsman_v01_112: 21300224
+      StandIn_Swordsman_v01_57: 21300114
+      StandIn_Swordsman_v01_18: 21300036
+      StandIn_Swordsman_v01_71: 21300142
+      StandIn_Swordsman_v01_1: 21300002
+      StandIn_Swordsman_v01_16: 21300032
+      StandIn_Swordsman_v01_7: 21300014
+      StandIn_Swordsman_v01_67: 21300134
+      StandIn_Swordsman_v01_101: 21300202
+      StandIn_Swordsman_v01_0: 21300000
+      StandIn_Swordsman_v01_24: 21300048
+      StandIn_Swordsman_v01_49: 21300098
+      StandIn_Swordsman_v01_73: 21300146
+      StandIn_Swordsman_v01_79: 21300158
+      StandIn_Swordsman_v01_32: 21300064
+      StandIn_Swordsman_v01_85: 21300170
+      StandIn_Swordsman_v01_107: 21300214
+      StandIn_Swordsman_v01_125: 21300250
+      StandIn_Swordsman_v01_27: 21300054
+      StandIn_Swordsman_v01_76: 21300152
+      StandIn_Swordsman_v01_113: 21300226
+      StandIn_Swordsman_v01_119: 21300238
+      StandIn_Swordsman_v01_127: 21300254
+      StandIn_Swordsman_v01_86: 21300172
+      StandIn_Swordsman_v01_131: 21300262
+      StandIn_Swordsman_v01_110: 21300220
+      StandIn_Swordsman_v01_33: 21300066
+      StandIn_Swordsman_v01_48: 21300096
+      StandIn_Swordsman_v01_26: 21300052
+      StandIn_Swordsman_v01_91: 21300182
+      StandIn_Swordsman_v01_68: 21300136
+      StandIn_Swordsman_v01_22: 21300044
+      StandIn_Swordsman_v01_8: 21300016
+      StandIn_Swordsman_v01_9: 21300018
+      StandIn_Swordsman_v01_36: 21300072
+      StandIn_Swordsman_v01_54: 21300108
+      StandIn_Swordsman_v01_47: 21300094
+      StandIn_Swordsman_v01_72: 21300144
+      StandIn_Swordsman_v01_60: 21300120
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
